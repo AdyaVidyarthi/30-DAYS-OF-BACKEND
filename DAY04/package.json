@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning backend day 03",
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "homepage": "https://github.com/AdyaVidyarthi/30-DAYS-OF-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/AdyaVidyarthi/30-DAYS-OF-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdyaVidyarthi/30-DAYS-OF-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "adya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
